@@ -1,0 +1,11 @@
+{
+  "title": "Ziad's WebZone",
+  "tagline": "Hand-Crafted Retro Hypertext",
+  "description": "A retro 90s-inspired developer blog resurrecting the handcrafted web.",
+  "baseUrl": "https://Ziad0dev.github.io",
+  "language": "en-US",
+  "author": "Ziad",
+  "email": "you@example.com",
+  "license": "MIT",
+  "postsPerIndex": 3
+}
