@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Ziad0dev.github.io/sitemap.xml
