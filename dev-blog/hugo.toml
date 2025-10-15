@@ -1,0 +1,4 @@
+baseURL = 'https://ziad0dev.github.io/'
+languageCode = 'en-us'
+theme = 'nostyleplease'
+title = 'The promethean singularity'
